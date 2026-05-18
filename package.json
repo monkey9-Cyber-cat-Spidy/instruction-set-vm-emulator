@@ -1,0 +1,17 @@
+{
+  "name": "instruction-set-vm-emulator",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "vm",
+    "bytecode",
+    "emulator",
+    "registers",
+    "instruction-set"
+  ],
+  "author": "Kuncham Venkata Satya Manikanta",
+  "license": "MIT"
+}
